@@ -1,0 +1,384 @@
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin1.txt/36.46/25.86
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin1.txt/3.69/1.79
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin1.txt/3.92/2.11
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin2.txt/34.23/21.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin2.txt/2.77/2.21
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin2.txt/4.19/1.98
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin3.txt/32.65/19.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin3.txt/2.82/2.04
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin3.txt/3.97/1.92
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin4.txt/32.1/19
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin4.txt/3.91/3.05
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin4.txt/5.22/2.37
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin5.txt/31.32/17.74
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin5.txt/3.28/2.07
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin5.txt/4.73/2.12
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin6.txt/30.24/16.18
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin6.txt/2.93/1.88
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin6.txt/4.05/2.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin7.txt/29.96/15.83
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin7.txt/3.15/2.23
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin7.txt/4.55/2.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin8.txt/29.19/14.62
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin8.txt/2.61/1.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin8.txt/3.79/1.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin9.txt/28.82/13.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin9.txt/2.2/1.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin9.txt/3.36/1.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin10.txt/27.82/12.37
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin10.txt/2.27/1.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin10.txt/3.23/1.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin11.txt/27.68/11.99
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin11.txt/2.43/1.96
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin11.txt/4.78/1.73
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin12.txt/27.48/11.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin12.txt/3.77/2.39
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin12.txt/4.85/2.29
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin13.txt/26.76/10.65
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin13.txt/3.24/1.85
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin13.txt/4.12/1.89
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin14.txt/27.29/11.71
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin14.txt/3/2.29
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin14.txt/4.51/1.96
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin15.txt/26.96/10.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin15.txt/3.07/2.15
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin15.txt/4.79/2.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin16.txt/27.14/11.27
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin16.txt/3.7/2.35
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin16.txt/5.4/2.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin17.txt/26.86/11
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin17.txt/2.77/1.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin17.txt/3.64/2.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin18.txt/26.2/9.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin18.txt/2.27/1.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin18.txt/3.34/1.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin19.txt/26.23/9.95
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin19.txt/2.24/1.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin19.txt/3.21/1.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin20.txt/26.3/10.14
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin20.txt/2.28/1.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin20.txt/3.29/1.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin21.txt/26.71/10.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin21.txt/3.23/2.03
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin21.txt/4.5/2.22
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin22.txt/26.47/10.26
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin22.txt/3.11/2.01
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin22.txt/4.46/1.99
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin23.txt/27/11.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin23.txt/2.68/1.82
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin23.txt/4.03/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin24.txt/26.46/10.32
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin24.txt/2.37/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin24.txt/3.46/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin25.txt/26.02/9.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin25.txt/2.28/1.55
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin25.txt/3.31/1.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin26.txt/25.75/9.25
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin26.txt/3.16/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin26.txt/4.49/1.96
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin27.txt/26.72/10.78
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin27.txt/2.2/1.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin27.txt/3.2/1.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin28.txt/25.91/9.48
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin28.txt/2.25/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin28.txt/3.53/1.65
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin29.txt/27.28/11.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin29.txt/2.57/1.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin29.txt/3.43/1.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin30.txt/26.25/9.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin30.txt/2.33/1.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin30.txt/3.19/1.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin31.txt/26.03/9.56
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin31.txt/2.68/1.95
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin31.txt/3.44/1.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin32.txt/26.85/10.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin32.txt/2.79/1.79
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin32.txt/3.93/1.84
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin33.txt/26.09/9.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin33.txt/2.26/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin33.txt/3.31/1.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin34.txt/26.85/10.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin34.txt/2.35/1.7
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin34.txt/3.34/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin35.txt/26.38/10.15
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin35.txt/2.5/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin35.txt/3.51/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin36.txt/25.8/9.24
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin36.txt/2.68/1.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin36.txt/3.67/2.85
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin37.txt/25.83/9.32
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin37.txt/2.79/1.71
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin37.txt/3.44/1.72
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin38.txt/26.3/10.13
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin38.txt/2.51/1.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin38.txt/3.46/1.75
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin39.txt/27.08/11.2
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin39.txt/3.87/2.54
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin39.txt/5.97/2.51
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin40.txt/26.91/11.09
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin40.txt/2.64/1.71
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin40.txt/3.64/1.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin41.txt/26.51/10.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin41.txt/3.23/2.14
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin41.txt/5.21/2.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin42.txt/26.29/9.9
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin42.txt/2.46/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin42.txt/3.48/1.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin43.txt/25.74/9.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin43.txt/2.3/1.79
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin43.txt/3.2/1.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin44.txt/25.63/8.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin44.txt/2.36/1.54
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin44.txt/3.25/1.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin45.txt/25.19/8.11
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin45.txt/4.11/1.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin45.txt/3.25/1.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin46.txt/25.86/9.41
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin46.txt/2.6/1.61
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin46.txt/3.39/1.72
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin47.txt/26.49/10.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin47.txt/2.29/1.56
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin47.txt/3.77/1.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin48.txt/26.29/9.94
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin48.txt/2.54/1.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin48.txt/3.21/1.61
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin49.txt/26.09/9.74
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin49.txt/2.2/1.81
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin49.txt/3.25/1.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin50.txt/26.71/10.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin50.txt/2.16/1.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin50.txt/3.18/1.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin51.txt/25.95/9.5
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin51.txt/2.27/1.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin51.txt/3.3/1.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin52.txt/27.54/11.95
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin52.txt/2.88/2.07
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin52.txt/3.89/1.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin53.txt/27.86/12.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin53.txt/2.75/1.72
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin53.txt/3.93/1.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin54.txt/28.01/12.74
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin54.txt/3/1.94
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin54.txt/4.46/2.15
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin55.txt/28.07/12.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin55.txt/2.29/1.81
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin55.txt/3.26/1.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin56.txt/28.39/13.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin56.txt/2.22/1.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin56.txt/3.22/1.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin57.txt/28.42/13.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin57.txt/2.72/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin57.txt/3.53/1.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin58.txt/29.05/14.28
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin58.txt/7.03/4.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin58.txt/10.62/4.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin59.txt/29.96/15.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin59.txt/13.83/9.03
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin59.txt/21.92/8.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin60.txt/28.8/14.05
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin60.txt/14.05/8.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin60.txt/27.74/7.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin61.txt/29.42/14.86
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin61.txt/11.4/6.99
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin61.txt/16.92/6.95
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin62.txt/30.17/16.03
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin62.txt/13.4/8.98
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin62.txt/23.46/8
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin63.txt/30.07/16
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin63.txt/14.36/9.35
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin63.txt/22.8/8.39
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin64.txt/28.52/13.55
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin64.txt/14.45/9.91
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin64.txt/23/8.98
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin65.txt/29.25/14.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin65.txt/11.31/7.83
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin65.txt/16.99/7.72
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin66.txt/28.65/13.54
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin66.txt/9.66/6.37
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin66.txt/14.65/6.43
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin67.txt/27.58/12.09
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin67.txt/7.48/4.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin67.txt/10.28/4.88
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin68.txt/28.22/13.17
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin68.txt/2.73/1.98
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin68.txt/4.01/1.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin69.txt/28.15/12.75
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin69.txt/3.19/1.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin69.txt/4.3/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin70.txt/27.82/12.36
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin70.txt/2.28/1.55
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin70.txt/3.33/1.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin71.txt/27.6/12.02
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin71.txt/2.22/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin71.txt/3.23/1.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin72.txt/28.71/13.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin72.txt/2.27/1.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin72.txt/3.19/1.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin73.txt/27.45/12.07
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin73.txt/2.63/1.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin73.txt/3.62/1.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin74.txt/27.64/12.29
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin74.txt/2.33/1.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin74.txt/3.51/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin75.txt/27.71/12.31
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin75.txt/2.3/1.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin75.txt/3.19/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin76.txt/27.27/11.48
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin76.txt/3.91/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin76.txt/3.35/1.58
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin77.txt/26.92/11.06
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin77.txt/2.36/1.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin77.txt/3.26/1.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin78.txt/27.27/11.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin78.txt/2.42/1.77
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin78.txt/3.66/1.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin79.txt/28.64/13.59
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin79.txt/3.49/2.35
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin79.txt/5.23/2.15
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin80.txt/27.69/12.37
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin80.txt/2.9/1.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin80.txt/4.35/1.89
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin81.txt/27.82/12.44
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin81.txt/3.5/2.41
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin81.txt/5.54/2.28
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin82.txt/26.67/10.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin82.txt/2.86/1.96
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin82.txt/4.38/1.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin83.txt/26.27/10.02
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin83.txt/3.38/2.16
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin83.txt/5/2.15
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin84.txt/27.11/11.29
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin84.txt/3.67/2.37
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin84.txt/5.36/2.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin85.txt/27.46/11.69
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin85.txt/2.2/1.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin85.txt/3.29/1.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin86.txt/27.13/11.25
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin86.txt/2.35/1.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin86.txt/3.39/1.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin87.txt/26.75/10.64
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin87.txt/2.37/1.69
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin87.txt/3.87/1.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin88.txt/26.75/10.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin88.txt/2.8/1.67
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin88.txt/4.64/1.85
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin89.txt/27.37/11.68
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin89.txt/2.43/1.67
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin89.txt/3.34/1.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin90.txt/26.68/10.76
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin90.txt/2.24/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin90.txt/3.33/1.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin91.txt/26.51/10.52
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin91.txt/2.75/1.76
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin91.txt/3.51/1.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin92.txt/26.7/10.71
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin92.txt/2.37/1.56
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin92.txt/3.52/1.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin93.txt/26.34/10.19
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin93.txt/2.5/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin93.txt/3.7/1.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin94.txt/26.13/9.87
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin94.txt/2.39/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin94.txt/3.43/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin95.txt/26.74/10.6
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin95.txt/2.2/1.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin95.txt/3.2/1.89
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin96.txt/25.96/9.41
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin96.txt/2.36/1.6
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin96.txt/3.38/1.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin97.txt/26.15/9.97
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin97.txt/2.44/1.53
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin97.txt/3.24/1.61
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin98.txt/26.37/10.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin98.txt/2.4/3.77
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin98.txt/3.64/1.88
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin99.txt/26.03/9.57
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin99.txt/3.68/1.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin99.txt/3.84/1.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin100.txt/25.67/9.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin100.txt/2.45/1.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin100.txt/3.58/1.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin101.txt/27.03/11.34
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin101.txt/2.37/1.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin101.txt/3.37/1.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin102.txt/25.21/8.3
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin102.txt/2.56/1.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin102.txt/3.5/1.73
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin103.txt/26.45/10.37
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin103.txt/2.39/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin103.txt/3.49/1.84
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin104.txt/26.79/10.76
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin104.txt/3.65/2.56
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin104.txt/5.67/2.3
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin105.txt/26.5/10.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin105.txt/3.03/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin105.txt/4.44/1.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin106.txt/26.56/10.56
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin106.txt/2.5/1.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin106.txt/3.65/1.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin107.txt/25.82/9.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin107.txt/3.78/2.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin107.txt/6.02/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin108.txt/26.12/9.87
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin108.txt/3.78/2.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin108.txt/5.89/2.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin109.txt/26.73/10.65
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin109.txt/2.34/1.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin109.txt/3.4/1.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin110.txt/27.43/11.82
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin110.txt/2.28/1.55
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin110.txt/3.28/1.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin111.txt/27.48/12.08
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin111.txt/2.3/1.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin111.txt/3.22/1.92
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin112.txt/28.13/12.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin112.txt/2.51/1.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin112.txt/3.23/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin113.txt/28.6/13.45
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin113.txt/2.27/1.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin113.txt/3.64/1.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin114.txt/28.03/12.59
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin114.txt/2.69/1.81
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin114.txt/4.08/1.81
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin115.txt/28.25/13.05
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin115.txt/2.82/1.85
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin115.txt/4.21/1.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin116.txt/29.08/14.22
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin116.txt/2.42/1.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin116.txt/3.49/1.69
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin117.txt/29.69/15.28
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin117.txt/2.27/1.53
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin117.txt/3.31/1.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin118.txt/30.1/16.17
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin118.txt/2.66/1.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin118.txt/3.55/1.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin119.txt/29.69/15.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin119.txt/3.18/2
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin119.txt/4.53/1.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin120.txt/29.95/15.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin120.txt/3/1.91
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin120.txt/4.24/1.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin121.txt/30.02/15.43
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin121.txt/2.89/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin121.txt/3.97/1.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin122.txt/30.75/16.75
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin122.txt/2.72/1.86
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin122.txt/3.94/1.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin123.txt/31.42/17.72
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin123.txt/3.38/1.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin123.txt/4.26/2.11
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin124.txt/32.46/19.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin124.txt/2.95/1.86
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin124.txt/4.01/1.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin125.txt/33.89/21.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin125.txt/3.27/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin125.txt/4.42/2.01
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin126.txt/34.43/22.45
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin126.txt/3.59/1.9
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin126.txt/4.22/1.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin127.txt/35.77/24.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin127.txt/2.67/1.76
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin127.txt/3.84/1.83
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin128.txt/36.65/25.83
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin128.txt/2.74/1.86
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Beamformed_RF\beamsum_bin128.txt/3.97/1.86

@@ -1,0 +1,384 @@
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin1.txt/42.63/35.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin1.txt/0.69/0.56
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin1.txt/1.72/2.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin2.txt/41.63/33.75
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin2.txt/0.61/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin2.txt/1.68/1.8
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin3.txt/40.51/31.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin3.txt/0.95/0.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin3.txt/2.69/3.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin4.txt/39.38/30.27
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin4.txt/0.93/0.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin4.txt/2.76/3.1
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin5.txt/38.35/28.7
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin5.txt/0.76/0.6
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin5.txt/2.25/2.4
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin6.txt/37.59/27.28
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin6.txt/1.07/0.84
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin6.txt/3.34/3.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin7.txt/37.62/27.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin7.txt/1.12/0.83
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin7.txt/3.5/3.85
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin8.txt/36.85/26.34
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin8.txt/0.5/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin8.txt/2.19/2.35
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin9.txt/35.93/25.04
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin9.txt/0.5/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin9.txt/2.22/2.39
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin10.txt/36.18/25.35
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin10.txt/0.59/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin10.txt/2.39/2.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin11.txt/34.45/22.8
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin11.txt/0.51/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin11.txt/2.3/2.54
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin12.txt/35.27/24.02
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin12.txt/0.51/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin12.txt/2.13/2.35
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin13.txt/35.67/24.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin13.txt/0.58/0.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin13.txt/2.53/2.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin14.txt/34.37/22.47
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin14.txt/0.63/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin14.txt/2.75/3
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin15.txt/35.41/23.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin15.txt/0.51/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin15.txt/2.29/2.48
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin16.txt/35.12/24.03
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin16.txt/0.45/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin16.txt/2.28/2.53
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin17.txt/35.35/23.8
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin17.txt/0.47/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin17.txt/2.26/2.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin18.txt/34.48/22.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin18.txt/0.46/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin18.txt/2.31/2.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin19.txt/34.05/22.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin19.txt/0.48/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin19.txt/2.26/2.51
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin20.txt/34.47/22.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin20.txt/0.47/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin20.txt/2.19/2.41
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin21.txt/34.52/23.19
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin21.txt/0.53/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin21.txt/2.29/2.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin22.txt/34.18/22.32
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin22.txt/0.46/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin22.txt/2.25/2.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin23.txt/34.86/23.44
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin23.txt/0.49/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin23.txt/2.2/2.35
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin24.txt/34.66/23.1
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin24.txt/0.5/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin24.txt/2.25/2.44
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin25.txt/33.69/21.62
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin25.txt/0.54/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin25.txt/2.42/2.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin26.txt/33.75/21.84
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin26.txt/0.66/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin26.txt/2.44/2.43
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin27.txt/34.76/23.05
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin27.txt/0.49/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin27.txt/2.28/2.5
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin28.txt/34.38/22.55
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin28.txt/0.49/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin28.txt/2.33/2.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin29.txt/34.57/22.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin29.txt/0.59/0.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin29.txt/2.69/2.97
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin30.txt/34.29/22.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin30.txt/0.49/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin30.txt/2.43/2.65
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin31.txt/33.39/21.12
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin31.txt/0.47/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin31.txt/2.55/2.84
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin32.txt/33.75/21.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin32.txt/0.5/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin32.txt/2.44/2.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin33.txt/34.62/23.2
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin33.txt/0.59/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin33.txt/2.58/2.78
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin34.txt/34.82/23.19
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin34.txt/0.9/0.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin34.txt/2.74/3.13
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin35.txt/34.61/23.07
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin35.txt/0.53/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin35.txt/2.36/2.52
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin36.txt/34.41/22.72
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin36.txt/0.52/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin36.txt/2.33/2.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin37.txt/33.94/22.04
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin37.txt/0.53/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin37.txt/2.4/2.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin38.txt/34.32/22.55
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin38.txt/0.49/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin38.txt/2.45/2.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin39.txt/35.06/23.97
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin39.txt/0.5/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin39.txt/2.38/2.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin40.txt/35.1/23.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin40.txt/0.57/0.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin40.txt/2.38/2.61
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin41.txt/33.89/21.92
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin41.txt/0.79/0.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin41.txt/3.23/3.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin42.txt/34.08/21.99
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin42.txt/0.91/0.72
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin42.txt/4.08/4.61
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin43.txt/34/21.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin43.txt/0.53/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin43.txt/2.56/2.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin44.txt/33.12/20.54
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin44.txt/0.53/0.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin44.txt/2.74/3.01
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin45.txt/33.28/20.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin45.txt/1.33/0.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin45.txt/5.01/3.72
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin46.txt/33.58/21.25
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin46.txt/0.64/0.61
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin46.txt/2.85/3.12
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin47.txt/33.95/21.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin47.txt/0.55/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin47.txt/2.64/2.85
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin48.txt/33.84/21.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin48.txt/0.53/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin48.txt/2.37/2.62
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin49.txt/34.56/22.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin49.txt/0.47/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin49.txt/2.25/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin50.txt/34.27/22.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin50.txt/0.52/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin50.txt/2.36/2.61
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin51.txt/35.15/23.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin51.txt/0.91/0.76
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin51.txt/3.68/4.34
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin52.txt/34.75/23.12
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin52.txt/0.59/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin52.txt/2.39/2.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin53.txt/35.64/24.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin53.txt/1.4/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin53.txt/2.41/2.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin54.txt/37.4/27.25
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin54.txt/1.19/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin54.txt/2.09/2.25
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin55.txt/36.93/26.34
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin55.txt/0.51/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin55.txt/2.1/2.28
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin56.txt/37.18/26.55
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin56.txt/0.48/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin56.txt/2.08/2.3
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin57.txt/37.18/26.92
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin57.txt/0.49/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin57.txt/1.98/2.14
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin58.txt/39.01/29.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin58.txt/0.49/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin58.txt/1.86/2.04
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin59.txt/38.49/28.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin59.txt/0.51/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin59.txt/1.9/2.07
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin60.txt/38.46/28.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin60.txt/0.48/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin60.txt/1.85/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin61.txt/38.22/28.36
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin61.txt/0.49/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin61.txt/1.95/2.12
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin62.txt/38.31/28.7
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin62.txt/0.68/0.54
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin62.txt/2.26/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin63.txt/37.39/27.22
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin63.txt/0.94/0.7
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin63.txt/3.13/3.24
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin64.txt/37.87/27.78
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin64.txt/0.67/0.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin64.txt/2.33/2.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin65.txt/36.88/26.14
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin65.txt/0.56/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin65.txt/2.13/2.25
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin66.txt/36.71/25.83
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin66.txt/0.46/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin66.txt/2/2.17
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin67.txt/36.82/26.17
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin67.txt/0.49/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin67.txt/1.93/2.09
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin68.txt/36.4/25.85
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin68.txt/0.55/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin68.txt/2.1/2.32
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin69.txt/36.43/25.81
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin69.txt/0.64/0.54
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin69.txt/2.41/2.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin70.txt/35.55/24.29
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin70.txt/0.58/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin70.txt/2.18/2.38
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin71.txt/35.66/24.84
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin71.txt/0.49/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin71.txt/2.01/2.22
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin72.txt/36.18/25.47
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin72.txt/0.52/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin72.txt/2.03/2.25
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin73.txt/35.6/24.4
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin73.txt/0.64/0.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin73.txt/2.19/2.4
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin74.txt/35.44/24.32
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin74.txt/0.51/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin74.txt/2.29/2.54
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin75.txt/34.71/23.15
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin75.txt/0.48/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin75.txt/2.13/2.25
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin76.txt/35.63/24.43
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin76.txt/0.5/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin76.txt/2.09/2.34
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin77.txt/35.84/24.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin77.txt/1.68/0.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin77.txt/2.74/2.97
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin78.txt/36.05/25.15
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin78.txt/0.5/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin78.txt/2.04/2.18
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin79.txt/36.25/25.6
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin79.txt/0.84/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin79.txt/2.21/2.53
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin80.txt/35.42/24.44
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin80.txt/0.46/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin80.txt/2.28/2.45
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin81.txt/35.38/24.09
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin81.txt/0.51/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin81.txt/2.49/2.5
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin82.txt/35.25/23.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin82.txt/0.51/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin82.txt/2.44/2.5
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin83.txt/35.06/23.71
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin83.txt/0.52/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin83.txt/2.28/2.49
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin84.txt/34.55/22.69
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin84.txt/0.51/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin84.txt/2.32/2.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin85.txt/34.45/22.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin85.txt/0.66/0.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin85.txt/2.54/2.78
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin86.txt/34.52/22.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin86.txt/1.16/0.83
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin86.txt/3.62/3.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin87.txt/34.72/23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin87.txt/0.65/0.53
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin87.txt/2.46/2.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin88.txt/34.48/22.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin88.txt/1.11/0.89
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin88.txt/4.18/4.86
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin89.txt/35.35/24.07
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin89.txt/0.98/0.55
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin89.txt/2.53/2.76
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin90.txt/34.06/21.94
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin90.txt/0.76/0.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin90.txt/3.58/4.05
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin91.txt/34.62/22.9
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin91.txt/0.52/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin91.txt/2.31/2.55
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin92.txt/34.52/22.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin92.txt/0.54/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin92.txt/2.58/2.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin93.txt/34.38/22.59
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin93.txt/0.99/0.67
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin93.txt/3.04/3.33
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin94.txt/34.09/21.95
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin94.txt/0.58/0.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin94.txt/2.47/2.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin95.txt/34.81/23.14
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin95.txt/0.62/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin95.txt/2.4/2.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin96.txt/33.71/21.51
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin96.txt/0.5/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin96.txt/2.51/2.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin97.txt/34.21/22.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin97.txt/0.51/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin97.txt/2.42/2.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin98.txt/34.17/22.09
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin98.txt/0.49/0.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin98.txt/2.44/2.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin99.txt/33.96/21.9
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin99.txt/0.57/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin99.txt/2.35/2.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin100.txt/33.86/21.85
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin100.txt/0.51/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin100.txt/2.4/2.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin101.txt/34.47/22.74
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin101.txt/0.56/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin101.txt/2.33/2.69
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin102.txt/33.26/20.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin102.txt/0.52/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin102.txt/2.37/2.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin103.txt/34.03/21.92
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin103.txt/0.48/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin103.txt/2.38/2.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin104.txt/34.34/22.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin104.txt/0.53/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin104.txt/2.36/2.48
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin105.txt/34.44/22.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin105.txt/0.51/0.5
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin105.txt/2.38/2.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin106.txt/34.45/22.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin106.txt/0.53/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin106.txt/2.55/2.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin107.txt/34.25/22.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin107.txt/0.51/0.43
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin107.txt/2.25/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin108.txt/34.22/22.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin108.txt/0.46/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin108.txt/2.25/2.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin109.txt/35.2/23.79
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin109.txt/0.49/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin109.txt/2.09/2.35
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin110.txt/35.22/23.99
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin110.txt/0.48/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin110.txt/2.52/2.23
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin111.txt/35.68/24.56
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin111.txt/0.47/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin111.txt/2.07/2.23
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin112.txt/35.8/24.84
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin112.txt/0.65/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin112.txt/2/2.18
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin113.txt/35.93/24.9
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin113.txt/0.52/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin113.txt/2.05/2.27
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin114.txt/37.51/27.28
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin114.txt/0.48/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin114.txt/1.89/2.01
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin115.txt/37.37/27.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin115.txt/0.54/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin115.txt/2.05/2.2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin116.txt/36.65/25.99
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin116.txt/0.51/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin116.txt/2.12/2.29
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin117.txt/36.41/25.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin117.txt/0.51/0.44
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin117.txt/1.98/2.21
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin118.txt/38.02/28.42
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin118.txt/0.51/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin118.txt/1.81/1.95
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin119.txt/38.19/28.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin119.txt/0.54/0.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin119.txt/1.83/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin120.txt/38.13/28.75
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin120.txt/0.5/0.41
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin120.txt/1.85/1.98
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin121.txt/37.88/28.02
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin121.txt/0.54/0.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin121.txt/2.29/2.31
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin122.txt/38.41/28.72
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin122.txt/0.58/0.46
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin122.txt/1.85/2.07
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin123.txt/39.09/29.49
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin123.txt/0.5/0.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin123.txt/1.72/1.84
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin124.txt/40.47/31.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin124.txt/0.5/0.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin124.txt/1.59/1.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin125.txt/41.03/33.01
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin125.txt/0.52/0.42
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin125.txt/1.51/1.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin126.txt/41.3/33.54
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin126.txt/0.95/0.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin126.txt/3.82/2.12
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin127.txt/42.55/35.3
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin127.txt/0.62/0.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin127.txt/1.44/1.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin128.txt/43.8/36.87
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin128.txt/0.73/0.63
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\IQ\Q_bin128.txt/1.81/2.11

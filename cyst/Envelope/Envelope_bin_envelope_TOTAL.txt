@@ -1,0 +1,384 @@
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin1.txt/48.28/38.64
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin1.txt/6.39/4.04
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin1.txt/8.43/3.38
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin2.txt/47.17/36.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin2.txt/2.85/1.85
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin2.txt/4.63/2.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin3.txt/46.09/35.19
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin3.txt/4.74/1.81
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin3.txt/4.71/2.04
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin4.txt/45.07/33.69
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin4.txt/2.69/1.85
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin4.txt/4.91/2.13
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin5.txt/43.81/32.04
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin5.txt/4.26/2.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin5.txt/7.08/2.63
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin6.txt/43.05/30.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin6.txt/2.87/1.58
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin6.txt/4.04/1.85
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin7.txt/42.91/30.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin7.txt/2.22/1.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin7.txt/4.06/1.89
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin8.txt/42.1/29.36
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin8.txt/2.64/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin8.txt/4.11/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin9.txt/41.58/28.53
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin9.txt/2.92/1.61
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin9.txt/4.1/1.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin10.txt/41.24/28.02
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin10.txt/2.88/5.79
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin10.txt/8.09/2.2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin11.txt/40.2/26.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin11.txt/5.08/3.01
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin11.txt/8.34/3.1
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin12.txt/40.3/26.83
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin12.txt/5.33/3.12
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin12.txt/8.6/3.26
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin13.txt/41.24/27.8
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin13.txt/4.65/2.76
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin13.txt/7.04/2.88
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin14.txt/39.88/26.07
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin14.txt/3.81/2.49
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin14.txt/6.64/3.75
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin15.txt/40.5/27.04
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin15.txt/3.6/2.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin15.txt/6.43/2.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin16.txt/40.77/27.48
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin16.txt/5.29/2.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin16.txt/8.82/2.96
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin17.txt/40.71/27.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin17.txt/4.13/2.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin17.txt/7.15/2.89
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin18.txt/40.41/26.86
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin18.txt/2.95/2.04
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin18.txt/5.18/2.24
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin19.txt/39.9/26.18
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin19.txt/4.33/2.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin19.txt/7.51/2.92
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin20.txt/39.83/26.04
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin20.txt/5.36/3.13
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin20.txt/22.35/3.3
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin21.txt/40.03/26.22
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin21.txt/5.4/3.05
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin21.txt/8.81/3.36
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin22.txt/39.58/25.87
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin22.txt/18.34/2.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin22.txt/8.99/3.18
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin23.txt/40.11/26.56
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin23.txt/4.8/2.85
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin23.txt/8.09/2.86
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin24.txt/40.28/26.76
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin24.txt/5.19/2.99
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin24.txt/8.44/3.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin25.txt/39.07/24.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin25.txt/3.86/2.07
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin25.txt/5.35/2.45
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin26.txt/39.26/25.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin26.txt/3.9/2.35
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin26.txt/6.62/3.15
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin27.txt/39.97/26.06
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin27.txt/3.76/2.24
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin27.txt/6.28/2.49
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin28.txt/39.88/25.92
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin28.txt/2.49/1.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin28.txt/4.51/2.38
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin29.txt/39.97/26.29
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin29.txt/3.43/2.23
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin29.txt/5.82/2.39
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin30.txt/40.02/26.26
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin30.txt/4/2.47
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin30.txt/7.07/2.6
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin31.txt/38.78/24.54
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin31.txt/3.15/1.89
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin31.txt/4.83/2.13
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin32.txt/39.22/25.15
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin32.txt/4.31/2.59
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin32.txt/7.2/3.78
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin33.txt/40.22/26.45
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin33.txt/3.86/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin33.txt/5.39/2.8
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin34.txt/39.84/25.95
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin34.txt/2.44/1.74
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin34.txt/4.38/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin35.txt/40.28/26.59
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin35.txt/3.17/1.7
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin35.txt/4.2/1.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin36.txt/39.73/25.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin36.txt/5.05/3.45
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin36.txt/7.94/2.92
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin37.txt/39.89/26.11
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin37.txt/2.25/1.69
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin37.txt/4.13/1.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin38.txt/39.92/26.34
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin38.txt/2.28/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin38.txt/4.14/2.51
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin39.txt/40.2/26.46
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin39.txt/4.27/2.51
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin39.txt/7.15/3.54
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin40.txt/40.53/26.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin40.txt/4.26/2.6
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin40.txt/8.06/2.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin41.txt/39.66/25.59
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin41.txt/2.46/1.72
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin41.txt/4.17/1.92
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin42.txt/39.23/25.05
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin42.txt/4.14/2.41
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin42.txt/7/2.64
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin43.txt/39.03/24.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin43.txt/4.84/3.09
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin43.txt/8.11/3.44
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin44.txt/39.06/24.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin44.txt/4.84/3.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin44.txt/7.91/2.97
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin45.txt/38.7/24.35
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin45.txt/5.27/3.05
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin45.txt/8.58/3.09
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin46.txt/39.48/25.37
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin46.txt/3.99/2.7
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin46.txt/6.79/2.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin47.txt/39.51/25.52
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin47.txt/2.79/1.9
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin47.txt/4.88/2.24
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin48.txt/39.77/25.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin48.txt/2.96/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin48.txt/5.16/2.2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin49.txt/39.81/25.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin49.txt/2.56/2.31
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin49.txt/4.57/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin50.txt/39.81/25.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin50.txt/2.52/1.98
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin50.txt/4.55/2.03
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin51.txt/40.3/26.68
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin51.txt/4.44/2.38
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin51.txt/6.38/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin52.txt/40.25/26.55
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin52.txt/4.39/2.7
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin52.txt/7.58/4.05
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin53.txt/41.05/27.95
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin53.txt/2.69/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin53.txt/4.66/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin54.txt/42.47/30.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin54.txt/4.58/2.73
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin54.txt/7.44/2.67
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin55.txt/42.46/29.88
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin55.txt/5.41/3.75
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin55.txt/8.62/2.96
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin56.txt/42.52/29.85
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin56.txt/3.59/2.24
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin56.txt/6.27/2.38
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin57.txt/42.86/30.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin57.txt/2.91/1.97
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin57.txt/5.08/2.11
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin58.txt/43.86/31.86
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin58.txt/2.44/1.73
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin58.txt/4.37/1.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin59.txt/43.92/32.07
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin59.txt/2.85/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin59.txt/4.1/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin60.txt/44.1/32.37
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin60.txt/2.26/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin60.txt/4.11/1.83
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin61.txt/44.2/32.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin61.txt/4.09/2.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin61.txt/7/2.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin62.txt/43.88/32.03
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin62.txt/4.56/2.9
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin62.txt/7.7/3.04
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin63.txt/43.18/31.1
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin63.txt/4.09/2.53
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin63.txt/6.83/3.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin64.txt/43.12/30.92
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin64.txt/4.66/4.98
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin64.txt/8.2/3.56
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin65.txt/42.11/29.46
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin65.txt/4.61/2.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin65.txt/7.49/2.75
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin66.txt/42.38/29.76
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin66.txt/2.38/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin66.txt/4.23/1.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin67.txt/42.02/29.36
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin67.txt/3.24/2.01
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin67.txt/5.47/2.13
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin68.txt/41.99/29.05
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin68.txt/3.47/2.2
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin68.txt/6.21/2.37
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin69.txt/41.88/28.89
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin69.txt/4.95/2.96
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin69.txt/8.27/3.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin70.txt/40.69/27.28
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin70.txt/5.5/3.06
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin70.txt/8.27/3.24
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin71.txt/41.13/27.91
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin71.txt/4.59/2.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin71.txt/7.84/4.07
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin72.txt/41.6/28.49
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin72.txt/4.83/3.9
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin72.txt/7.98/3.18
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin73.txt/40.87/27.64
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin73.txt/3.88/2.35
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin73.txt/6.47/2.54
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin74.txt/41.06/27.98
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin74.txt/4.81/2.53
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin74.txt/7.06/2.68
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin75.txt/40.84/27.43
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin75.txt/4.39/2.57
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin75.txt/7.37/3.17
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin76.txt/41.03/27.86
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin76.txt/4.96/2.78
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin76.txt/8.04/2.93
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin77.txt/41.42/28.31
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin77.txt/4.41/2.71
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin77.txt/7.41/2.77
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin78.txt/41.59/28.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin78.txt/5.03/2.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin78.txt/8.13/2.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin79.txt/41.78/29.03
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin79.txt/3.65/2.21
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin79.txt/6.12/2.29
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin80.txt/40.89/27.73
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin80.txt/3.8/2.11
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin80.txt/5.55/2.2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin81.txt/40.7/27.31
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin81.txt/5/2.9
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin81.txt/8.29/2.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin82.txt/40.78/27.2
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin82.txt/4.74/3.39
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin82.txt/7.33/2.9
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin83.txt/40.45/27
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin83.txt/4.51/2.84
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin83.txt/7.5/2.88
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin84.txt/39.98/26.18
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin84.txt/2.45/1.78
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin84.txt/4.49/2.02
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin85.txt/39.69/25.79
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin85.txt/4.55/2.37
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin85.txt/6.68/2.51
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin86.txt/40.02/26.11
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin86.txt/2.51/1.68
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin86.txt/4.37/1.99
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin87.txt/39.97/25.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin87.txt/2.77/1.88
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin87.txt/4.85/2.17
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin88.txt/40.13/26.49
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin88.txt/6.28/2.96
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin88.txt/8.65/3.07
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin89.txt/40.55/27.21
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin89.txt/3.64/2.32
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin89.txt/6.21/2.52
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin90.txt/39.65/25.66
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin90.txt/4/2.41
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin90.txt/6.69/2.58
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin91.txt/39.73/25.93
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin91.txt/4.19/3.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin91.txt/6.83/2.58
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin92.txt/39.88/25.71
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin92.txt/3.08/1.96
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin92.txt/5.2/2.19
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin93.txt/39.7/25.63
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin93.txt/2.99/2.01
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin93.txt/5.2/2.46
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin94.txt/39.72/25.76
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin94.txt/2.43/1.72
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin94.txt/4.39/1.96
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin95.txt/39.87/26.16
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin95.txt/5.1/2.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin95.txt/7.72/2.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin96.txt/39.67/25.7
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin96.txt/4.56/2.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin96.txt/7.55/2.74
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin97.txt/40.03/26.38
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin97.txt/3.1/2.07
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin97.txt/5.47/2.31
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin98.txt/39.67/25.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin98.txt/5.85/3.03
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin98.txt/8.35/3.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin99.txt/39.25/25.2
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin99.txt/3.4/2.87
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin99.txt/5.87/2.36
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin100.txt/39.04/24.94
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin100.txt/2.33/1.67
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin100.txt/4.19/1.95
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin101.txt/39.51/25.62
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin101.txt/2.32/2.29
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin101.txt/4.19/1.95
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin102.txt/38.82/24.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin102.txt/2.38/2.48
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin102.txt/4.39/2
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin103.txt/38.82/24.61
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin103.txt/4.91/2.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin103.txt/8.18/2.91
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin104.txt/39.67/25.6
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin104.txt/3.99/1.99
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin104.txt/5.21/2.18
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin105.txt/40.03/26.23
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin105.txt/2.28/1.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin105.txt/4.18/2.59
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin106.txt/40.23/26.53
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin106.txt/2.79/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin106.txt/5.14/2.15
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin107.txt/39.22/25.01
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin107.txt/3.85/2.73
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin107.txt/6.6/3.71
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin108.txt/39.39/25.35
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin108.txt/2.31/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin108.txt/4.18/1.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin109.txt/40.33/26.71
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin109.txt/4.39/2.81
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin109.txt/7.9/3.82
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin110.txt/40.9/27.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin110.txt/2.59/1.79
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin110.txt/4.64/2.66
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin111.txt/41.46/28.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin111.txt/2.32/1.64
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin111.txt/4.23/1.88
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin112.txt/41.51/28.48
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin112.txt/3.54/2.16
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin112.txt/6.17/2.4
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin113.txt/41.71/28.83
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin113.txt/3.16/1.86
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin113.txt/4.69/2.1
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin114.txt/43.15/30.85
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin114.txt/5.38/2.99
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin114.txt/8.91/2.98
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin115.txt/42.91/30.57
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin115.txt/4.28/3.23
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin115.txt/6.4/2.57
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin116.txt/42/28.99
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin116.txt/2.77/1.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin116.txt/5.58/2.08
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin117.txt/42.24/29.77
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin117.txt/4.31/2.29
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin117.txt/6.2/2.35
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin118.txt/43.3/31.26
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin118.txt/4.69/2.94
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin118.txt/7.98/3.06
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin119.txt/43.66/31.58
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin119.txt/3.28/2.1
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin119.txt/5.62/2.29
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin120.txt/43.46/31.57
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin120.txt/4.67/2.62
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin120.txt/7.54/2.7
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin121.txt/43.44/31.57
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin121.txt/5.24/2.91
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin121.txt/8.41/2.94
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin122.txt/43.86/31.82
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin122.txt/2.93/1.66
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin122.txt/4.11/1.87
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin123.txt/44.69/33.39
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin123.txt/3.54/2.21
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin123.txt/6.01/2.36
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin124.txt/45.55/34.5
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin124.txt/4.41/2.52
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin124.txt/7.6/4.19
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin125.txt/46.72/36.15
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin125.txt/4.99/3.03
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin125.txt/8.38/4.22
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin126.txt/46.95/36.8
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin126.txt/6.08/2.93
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin126.txt/8.39/2.84
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin127.txt/48.49/38.96
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin127.txt/5.26/2.92
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin127.txt/8.56/2.79
+C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin128.txt/49.19/40.17
+TICK ENCODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin128.txt/2.34/1.65
+TICK DECODE: C:\Users\김정훈\Desktop\업무\초음파영상압축데이터\cyst\Envelope\Envelope_bin128.txt/4.3/1.85
