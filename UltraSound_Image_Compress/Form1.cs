@@ -42,8 +42,8 @@ namespace UltraSound_Image_Compress
             long sum_tick_EG_encode = 0;
             long sum_tick_EG_decode = 0;
 
-            BL_beta.setup_code();
-            Exponential_Golomb.setup_code();
+            BL_beta_LUT.setup_code();
+            Exponential_Golomb_LUT.setup_code();
 
 
             for (int i = 1; i <= 128; i++)
@@ -93,7 +93,7 @@ namespace UltraSound_Image_Compress
 
                     timer.Reset();
                     timer.Start();
-                    string comp_result = BL_beta.Encode_LOOKUP(code_num);
+                    string comp_result = BL_beta_LUT.Encode_LOOKUP(code_num);
                     timer.Stop();
                     long ET_BL_ENCODE = timer.ElapsedTicks;
 
@@ -101,7 +101,7 @@ namespace UltraSound_Image_Compress
                     timer.Reset();
                     timer.Start();
                     //string EG_comp_result = Exponential_Golomb.Encode(code_num, 0); //Exponential Golomb code로 코딩(k=0)
-                    string EG_comp_result = Exponential_Golomb.Encode_LookUp(code_num); //Exponential Golomb code로 코딩(k=0)
+                    string EG_comp_result = Exponential_Golomb_LUT.Encode_LookUp(code_num); //Exponential Golomb code로 코딩(k=0)
                     timer.Stop();
                     long ET_EG_ENCODE = timer.ElapsedTicks;
 
@@ -116,7 +116,7 @@ namespace UltraSound_Image_Compress
                     timer.Reset();
                     timer.Start();
                     //int code_num_decomp = BL_beta.Decode(comp_result, 1) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
-                    int code_num_decomp = BL_beta.Decode_LOOKUP(comp_result) -1 ;
+                    int code_num_decomp = BL_beta_LUT.Decode_LOOKUP(comp_result) -1 ;
 
 
                     timer.Stop();
@@ -125,7 +125,7 @@ namespace UltraSound_Image_Compress
                     timer.Reset();
                     timer.Start();
                     //int EG_code_num_decomp = Exponential_Golomb.Decode(EG_comp_result, 0) - 1;
-                    int EG_code_num_decomp = Exponential_Golomb.Decode_LookUp(EG_comp_result)-1;
+                    int EG_code_num_decomp = Exponential_Golomb_LUT.Decode_LookUp(EG_comp_result)-1;
 
 
 
@@ -849,8 +849,8 @@ namespace UltraSound_Image_Compress
             long sum_tick_EG_encode = 0;
             long sum_tick_EG_decode = 0;
 
-            Exponential_Golomb.setup_code();
-            BL_beta.setup_code();
+            Exponential_Golomb_LUT.setup_code();
+            BL_beta_LUT.setup_code();
 
 
             for (int i = 1; i <= 128; i++)
@@ -964,7 +964,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
            
-                        comp_result = HB + BL_beta.Encode_LOOKUP(code_num);
+                        comp_result = HB + BL_beta_LUT.Encode_LOOKUP(code_num);
 
 
 
@@ -975,7 +975,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
              
-                        EG_comp_result = HB + Exponential_Golomb.Encode_LookUp(code_num);
+                        EG_comp_result = HB + Exponential_Golomb_LUT.Encode_LookUp(code_num);
 
                         timer.Stop();
                         ET_EG_ENCODE = timer.ElapsedTicks;
@@ -1018,7 +1018,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
                  
-                        comp_result = HB + BL_beta.Encode_LOOKUP(code_num);
+                        comp_result = HB + BL_beta_LUT.Encode_LOOKUP(code_num);
 
                         timer.Stop();
                         ET_BL_ENCODE = timer.ElapsedTicks;
@@ -1026,7 +1026,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
            
-                        EG_comp_result = HB + Exponential_Golomb.Encode_LookUp(code_num);
+                        EG_comp_result = HB + Exponential_Golomb_LUT.Encode_LookUp(code_num);
 
 
                         timer.Stop();
@@ -1078,7 +1078,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
          
-                        code_num_decomp = BL_beta.Decode_LOOKUP(LOWER_B_decomp)-1;
+                        code_num_decomp = BL_beta_LUT.Decode_LOOKUP(LOWER_B_decomp)-1;
 
                         timer.Stop();
                         ET_BL_DECODE = timer.ElapsedTicks;
@@ -1086,7 +1086,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
              
-                        EG_code_num_decomp = Exponential_Golomb.Decode_LookUp(EG_LOWER_B_decomp)-1;
+                        EG_code_num_decomp = Exponential_Golomb_LUT.Decode_LookUp(EG_LOWER_B_decomp)-1;
 
                         timer.Stop();
                         ET_EG_DECODE = timer.ElapsedTicks;
@@ -1138,7 +1138,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
       
-                        code_num_decomp = BL_beta.Decode_LOOKUP(LOWER_B_decomp)-1;
+                        code_num_decomp = BL_beta_LUT.Decode_LOOKUP(LOWER_B_decomp)-1;
 
                         timer.Stop();
                         ET_BL_DECODE = timer.ElapsedTicks;
@@ -1146,7 +1146,7 @@ namespace UltraSound_Image_Compress
                         timer.Reset();
                         timer.Start();
        
-                        EG_code_num_decomp = Exponential_Golomb.Decode_LookUp(EG_LOWER_B_decomp)-1;
+                        EG_code_num_decomp = Exponential_Golomb_LUT.Decode_LookUp(EG_LOWER_B_decomp)-1;
 
                         timer.Stop();
                         ET_EG_DECODE = timer.ElapsedTicks;
