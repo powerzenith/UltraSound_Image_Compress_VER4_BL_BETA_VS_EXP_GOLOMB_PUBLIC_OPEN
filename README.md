@@ -8,8 +8,7 @@ the Visual Studio 2017 Community (VS 2017)
 2.Open the Visual studio solution file
 UltraSound_Image_Compress.sln file with VS 2017 
 
-3.Run the Form1 by starting project
-“Form1.cs”
+3.Run the Form1 by starting solution
 
 4.You can see form1 as page 1 in manual.pptx
   #  if you want to compress "Envelop" data for a certain sample ultrasound  with LUT(Look Up Table) method, click
