@@ -1,6 +1,6 @@
 # UltraSound_Image_Compress
 # Ver 4.0
-For more detail, Manual.pptx explains that how to run our algorithm and evaluate the performance.
+# For more detail, Manual.pptx explains that how to run our algorithm and evaluate the performance.
 
 1.Install
 the Visual Studio 2017 Community (VS 2017)
