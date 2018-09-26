@@ -1,5 +1,5 @@
 # UltraSound_Image_Compress
-# Ver 4.0
+# Ver 4.1
 # For more detail, Manual.pptx explains that how to run our algorithm and evaluate the performance.
 
 1.Install
@@ -11,24 +11,24 @@ UltraSound_Image_Compress.sln file with VS 2017
 3.Run the Form1 by starting solution
 
 4.You can see form1 as page 1 in manual.pptx
-  #  if you want to compress "Envelop" data for a certain sample ultrasound  with LUT(Look Up Table) method, click
+ -  if you want to compress "Envelop" data for a certain sample ultrasound  with LUT(Look Up Table) method, click
       "Envelope_Data_Compression_LOOKUP" buttton
-  #  also, if you want to compress "Envelop" data for a cetramin sample ultrasound with Formular method(Mathmatical method),
+ -  also, if you want to compress "Envelop" data for a certain sample ultrasound with Formular method(Mathmatical method),
       click "Envelope_Data_Compression" button
       
-  # To compress "Prebeamformed" data , please click "Prebeamformed_RF_Compression_LOOKUP" or "Preberamformed_RF_Compression"
-  # To compress "IQ" data, please click "Prebeamformed_RF_Compression_LOOKUP" or "Preberamformed_RF_Compression" button
-  # To compress "Beamformed" data, please click "Beamformed_RF_Compression_LOOKUP" or "Beamformed_RF_Compression" button
+ - To compress "Prebeamformed" data , please click "Prebeamformed_RF_Compression_LOOKUP" or "Preberamformed_RF_Compression"
+ - To compress "IQ" data, please click "Prebeamformed_RF_Compression_LOOKUP" or "Preberamformed_RF_Compression" button
+ - To compress "Beamformed" data, please click "Beamformed_RF_Compression_LOOKUP" or "Beamformed_RF_Compression" button
       
 
  
-5. Then you can see file selecting diaolog box to select scanline data file for each data tytpe (i.e. Envelope, Prebeamformed, IQ, Beamformed) 
+5. Then you can see file selecting diaolog box to select scanline data file for each data type (i.e. Envelope, Prebeamformed, IQ, Beamformed) 
    - Dialog box descripted on page3 in manual.pptx
    - You can select cyst folder and then select "Envelope" folder to compress "Envelope" type data for the cyst sample
-     # in Envelope folder, YOU HAVE TO SELECT "Envelope_bin1.txt"
-     # Once you select this file, other scanline(2~128) files are automatically compressed by our program.
-     if you do not select Envelope_bin1.txt, the program make an exception error.
-     # After compression, Compression result files that _TOTAL.txt, _Decode.txt, _Encode.txt, _STAT.txt  are made by our program
+     * in Envelope folder, YOU HAVE TO SELECT "Envelope_bin1.txt"
+     * Once you select this file, other scanline(2~128) files are automatically compressed by our program.
+     * if you do not select Envelope_bin1.txt, the program make an exception error.
+     * After compression, Compression result files that _TOTAL.txt, _Decode.txt, _Encode.txt, _STAT.txt  are made by our program
    - You can see the detail description on page4 in manual.pptx
    
  6. on page from 6 to 9 in manual.pptx, 
