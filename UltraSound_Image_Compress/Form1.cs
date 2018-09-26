@@ -226,6 +226,8 @@ namespace UltraSound_Image_Compress
             long sum_tick_BL_decode = 0;
             long sum_tick_EG_encode = 0;
             long sum_tick_EG_decode = 0;
+            long sum_code_num = 0;
+            long code_num_cc = 0;
 
 
             for (int i = 1; i <= 128; i++)
@@ -271,6 +273,8 @@ namespace UltraSound_Image_Compress
 
                     //LOWER_B에 대해서 십진수로 변환한뒤, BL-beta로 압축
                     int code_num = Convert.ToInt16(line, 2) + 1;
+                    sum_code_num += code_num;
+                    code_num_cc++;
 
 
                     timer.Reset();
@@ -359,6 +363,11 @@ namespace UltraSound_Image_Compress
                 sw_tr.WriteLine(fn + "/" + Math.Round((ratio_sum / cc), 2).ToString() + "/" + Math.Round((ratio_sum2 / cc), 2).ToString());
                 sw_tr.WriteLine("TICK ENCODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_encode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_encode / cc), 2).ToString());
                 sw_tr.WriteLine("TICK DECODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_decode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_decode / cc), 2).ToString());
+                sw_tr.WriteLine("CODE_NUM_AVR: " + fn + "/" + Math.Round(((double)sum_code_num / code_num_cc), 2).ToString());
+
+
+                sum_code_num = 0;
+                code_num_cc = 0;
 
                 sum_tick_BL_encode = 0;
                 sum_tick_BL_decode = 0;
@@ -411,6 +420,8 @@ namespace UltraSound_Image_Compress
             long sum_tick_BL_decode = 0;
             long sum_tick_EG_encode = 0;
             long sum_tick_EG_decode = 0;
+            long sum_code_num = 0;
+            long code_num_cc = 0;
 
 
             for (int i = 1; i <= 128; i++)
@@ -526,9 +537,23 @@ namespace UltraSound_Image_Compress
                         //HB를 보고 압축해제 시나리오를 확인하고 나서,이어서 해당 비트를 읽어서,
                         //LOWER_B에 대해서 십진수로 변환한뒤, BL-beta로 압축
                         code_num = Convert.ToInt16(LOWER_B, 2) + 1;
+
+                        sum_code_num += code_num;
+                        code_num_cc++;
+
                         timer.Reset();
                         timer.Start();
-                        comp_result = HB + BL_beta.Encode(code_num, 1);
+
+                        if (data_type == "beamformed")
+                        {
+
+                            comp_result = HB + BL_beta.Encode(code_num, 2);
+                        }
+                        else
+                        {
+                            comp_result = HB + BL_beta.Encode(code_num, 1);
+                        }
+
                         timer.Stop();
                         ET_BL_ENCODE = timer.ElapsedTicks;
 
@@ -572,10 +597,25 @@ namespace UltraSound_Image_Compress
 
 
                         code_num = Convert.ToInt16(LOWER_B, 2) + 1;
+                        sum_code_num += code_num;
+                        code_num_cc++;
+
+
 
                         timer.Reset();
                         timer.Start();
-                        comp_result = HB + BL_beta.Encode(code_num, 1);
+                        if (data_type == "beamformed")
+                        {
+                            comp_result = HB + BL_beta.Encode(code_num, 2);
+
+                        }
+
+                        else
+
+                        {
+                            comp_result = HB + BL_beta.Encode(code_num, 1);
+                        }
+
                         timer.Stop();
                          ET_BL_ENCODE = timer.ElapsedTicks;
 
@@ -630,7 +670,16 @@ namespace UltraSound_Image_Compress
 
                         timer.Reset();
                         timer.Start();
-                        code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 1) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
+
+                        if (data_type == "beamformed")
+                        {
+                            code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 2) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
+                        }
+
+                        else
+                        {
+                            code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 1) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
+                        }
                         timer.Stop();
                         ET_BL_DECODE = timer.ElapsedTicks;
 
@@ -685,8 +734,18 @@ namespace UltraSound_Image_Compress
 
                         timer.Reset();
                         timer.Start();
-                        code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 1) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
-                        timer.Stop();
+
+                        if (data_type == "beamformed")
+                        {
+                            code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 2) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
+                        }
+                        else
+
+                        {
+                            code_num_decomp = BL_beta.Decode(LOWER_B_decomp, 1) - 1;  //실제 code-num은  디코딩값에서 1을 뺀값임.
+
+                        }
+                            timer.Stop();
                         ET_BL_DECODE = timer.ElapsedTicks;
 
                         timer.Reset();
@@ -796,11 +855,16 @@ namespace UltraSound_Image_Compress
                 sw_tr.WriteLine(fn + "/" + Math.Round((ratio_sum / cc), 2).ToString() + "/" + Math.Round((ratio_sum2 / cc), 2).ToString());
                 sw_tr.WriteLine("TICK ENCODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_encode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_encode / cc), 2).ToString());
                 sw_tr.WriteLine("TICK DECODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_decode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_decode / cc), 2).ToString());
+                sw_tr.WriteLine("CODE_NUM_AVR: " + fn + "/" + Math.Round(((double)sum_code_num / code_num_cc), 2).ToString());
 
                 sum_tick_BL_encode = 0;
                 sum_tick_BL_decode = 0;
                 sum_tick_EG_encode = 0;
                 sum_tick_EG_decode = 0;
+                sum_code_num = 0;
+                code_num_cc = 0;
+
+
                 cc = 0;
 
             }
@@ -848,6 +912,9 @@ namespace UltraSound_Image_Compress
             long sum_tick_BL_decode = 0;
             long sum_tick_EG_encode = 0;
             long sum_tick_EG_decode = 0;
+
+            long sum_code_num = 0;
+            long code_num_cc = 0;
 
             Exponential_Golomb_LUT.setup_code();
             BL_beta_LUT.setup_code();
@@ -961,6 +1028,9 @@ namespace UltraSound_Image_Compress
                         //HB를 보고 압축해제 시나리오를 확인하고 나서,이어서 해당 비트를 읽어서,
                         //LOWER_B에 대해서 십진수로 변환한뒤, BL-beta로 압축
                         code_num = Convert.ToInt16(LOWER_B, 2) ;
+                        sum_code_num += code_num;
+                        code_num_cc++;
+
                         timer.Reset();
                         timer.Start();
            
@@ -1014,6 +1084,8 @@ namespace UltraSound_Image_Compress
 
 
                         code_num = Convert.ToInt16(LOWER_B, 2);
+                        sum_code_num += code_num;
+                        code_num_cc++;
 
                         timer.Reset();
                         timer.Start();
@@ -1039,7 +1111,8 @@ namespace UltraSound_Image_Compress
                         //10 이나 01로 시작안하는 00 이나 11로 시작하는데
                         //그외의 소수의 경우 그대로 BL-beta로 간다. 이때는 HB로 인하여 2비트 손해인데
                         HB = "11";
-                        LOWER_B = line.Substring(1, L - 1); //이때 어차피 HB라 압축데이터에 붙으므로, 1100 , 1111 ==> 110 / 111 로  1비트 정도로 손해를 줄일수있음
+                        LOWER_B = line.Substring(1, L - 1); //이때 어차피 HB라 압축데이터에 붙으므로, 1100 , 1111 ==> 110 / 111 로 , 00 ==> 0 ,  11 ==> 1 로, 1비트 정도로 손해를 줄일수있음 ** tip
+
 
                         comp_result = HB + LOWER_B;
                         EG_comp_result = HB + LOWER_B;
@@ -1253,12 +1326,17 @@ namespace UltraSound_Image_Compress
                 sw_tr.WriteLine(fn + "/" + Math.Round((ratio_sum / cc), 2).ToString() + "/" + Math.Round((ratio_sum2 / cc), 2).ToString());
                 sw_tr.WriteLine("TICK ENCODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_encode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_encode / cc), 2).ToString());
                 sw_tr.WriteLine("TICK DECODE: " + fn + "/" + Math.Round(((double)sum_tick_BL_decode / cc), 2).ToString() + "/" + Math.Round(((double)sum_tick_EG_decode / cc), 2).ToString());
+                sw_tr.WriteLine("CODE_NUM_AVR: " + fn + "/" + Math.Round(((double)sum_code_num / code_num_cc), 2).ToString());
 
                 sum_tick_BL_encode = 0;
                 sum_tick_BL_decode = 0;
                 sum_tick_EG_encode = 0;
                 sum_tick_EG_decode = 0;
+                sum_code_num = 0;
+                code_num_cc = 0;
+
                 cc = 0;
+
 
             }
             sw_tr.Close();

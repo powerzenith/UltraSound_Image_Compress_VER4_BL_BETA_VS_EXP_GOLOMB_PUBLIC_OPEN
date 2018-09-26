@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BL_alpha.cs" />
+    <Compile Include="BL_beta_LUT.cs" />
+    <Compile Include="Exponential_Golomb_LUT.cs" />
     <Compile Include="Exponential_Golomb.cs" />
     <Compile Include="BL_beta.cs" />
     <Compile Include="Form1.cs">

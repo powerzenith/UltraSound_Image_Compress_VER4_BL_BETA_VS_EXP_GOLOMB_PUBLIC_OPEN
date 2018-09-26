@@ -24,7 +24,8 @@ namespace BLSC
                 Z = code_num[i];
 
 
-                int M = (int)Math.Ceiling(Math.Log((Z + Math.Pow(2, S)) / (double)Math.Pow(2, S), 2));
+                //int M = (int)Math.Ceiling(Math.Log((Z + Math.Pow(2, S)) / (double)Math.Pow(2, S), 2));
+                int M = (int)Math.Ceiling(Math.Log((((double)Z + Math.Pow(2, S)) / Math.Pow(2, S)), 2));
                 double K = 0;
 
 
@@ -34,8 +35,8 @@ namespace BLSC
                 if (test_K == K) { K2 = (int)(K - 1); } else { K2 = (int)test_K; }
 
                 int X = M - K2 * (K2 - 1) / 2;
-                int suffix = (int)(Z - Math.Pow(2, S) * (Math.Pow(2, (M - 1)) - 1) - 1);
-
+                //int suffix = (int)(Z - Math.Pow(2, S) * (Math.Pow(2, (M - 1)) - 1) - 1);
+                int suffix = (int)(Z - Math.Pow(2, S) * (Math.Pow(2, (M - 1)) - 1) - 1);  //주의해야함!! int 등 연산순위오류등
 
 
                 r.Append('1', X - 1);
@@ -95,8 +96,8 @@ namespace BLSC
                 Z = code_num;
 
 
-               // int M = (int)Math.Ceiling(Math.Log((Z + Math.Pow(2, S)) / (double)Math.Pow(2, S), 2));
-               int M = (int)Math.Ceiling(Math.Log((Z + 2) / (double)2, 2));
+               int M = (int)Math.Ceiling(Math.Log((((double)Z + Math.Pow(2, S)) / Math.Pow(2, S)), 2));
+               //int M = (int)Math.Ceiling(Math.Log((Z + 2) / (double)2, 2));
                double K = 0;
 
 
@@ -106,8 +107,8 @@ namespace BLSC
                 if (test_K == K) { K2 = (int)(K - 1); } else { K2 = (int)test_K; }
 
                 int X = M - K2 * (K2 - 1) / 2;
-                //int suffix = (int)(Z - Math.Pow(2, S) * (Math.Pow(2, (M - 1)) - 1) - 1);
-                int suffix = (int)(Z - 2 * (Math.Pow(2, (M - 1)) - 1) - 1);
+                int suffix = (int)(Z - Math.Pow(2, S) * (Math.Pow(2, (M - 1)) - 1) - 1);  //주의해야함!! int 등 연산순위오류등
+                //int suffix = (int)(Z - 2 * (Math.Pow(2, (M - 1)) - 1) - 1);
 
 
 
@@ -151,6 +152,8 @@ namespace BLSC
         public static int Decode(string bin, int S)
         {
             //아직 만드는중... 
+            //  "110011001001100"
+
 
             string rs = bin.ToString();
             int RS_L = rs.Length;
@@ -164,6 +167,7 @@ namespace BLSC
                 if (p == 0) break;
 
                 string r3 = rs.Substring(i, p - i + 1);  //BL-alpha코드부 추출
+                ;
                 int L = r3.Length;
                 int K = L - 1;
                 int T = r3.IndexOf("10") + 1;
@@ -173,12 +177,14 @@ namespace BLSC
 
                 string r4 = rs.Substring(p + 1, SL);  //suffix 부 추출
                 int Bcode = Convert.ToInt32(r4, 2);
-                //Z = Bcode + (int)Math.Pow(2, S) * ((int)Math.Pow(2, M - 1) - 1) + 1;
-                Z = Bcode + 2 * ((int)Math.Pow(2, M - 1) - 1) + 1;
+                Z = Bcode + (int)(Math.Pow(2, S) * (Math.Pow(2, M - 1) - 1)) + 1;  //주의해야함! 형변환(int)의 위치에 따라 값이 완전히 달라짐, C# 기초가 중요
+
+                //Z = suffix_10 + 2 ^ S×(2 ^ (M - 1) - 1) + 1.  <-- 논문에서 사용된 공식인데 code로 잘 옮겨야함!
 
 
 
-                i += L;
+
+                      i += L;
                 i += SL;
                 i--;
 
@@ -229,8 +235,8 @@ namespace BLSC
 
                 string r4 = rs.Substring(p + 1, SL);  //suffix 부 추출
                 int Bcode = Convert.ToInt32(r4, 2);
-                int Z = Bcode + (int)Math.Pow(2, S) * ((int)Math.Pow(2, M - 1) - 1) + 1;
-
+                //int Z = Bcode + (int)Math.Pow(2, S) * ((int)Math.Pow(2, M - 1) - 1) + 1;
+                int Z = Bcode + (int)(Math.Pow(2, S) * (Math.Pow(2, M - 1) - 1)) + 1;  //주의해야함! 형변환(int)의 위치에 따라 값이 완전히 달라짐, C# 기초가 중요
 
                 myList.Add(Z);
                 i += L;
